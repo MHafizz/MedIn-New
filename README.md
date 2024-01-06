@@ -15,6 +15,7 @@ Job Desc:
 Anggota 2:
 - Membuat algoritma naive bayes
 - Menampilkan Hasil prediksi pada halaman hasil
+- Membuat Room database
 
 
 
